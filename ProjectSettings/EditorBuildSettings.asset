@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Screen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/CoverShooter/Cover Shooter.unity
+    guid: 04f7bf400a0305a498709d7e9e09d5de
+  - enabled: 1
+    path: Assets/Scenes/Side Scroll Runner.unity
+    guid: 0db305dd8b545ff43a7a5cc1dbf5cc1d
+  - enabled: 1
+    path: Assets/Scenes/RPG Encounter Fighter.unity
+    guid: bbb42a7d78f30584995bbbca5bce364a
+  - enabled: 1
+    path: Assets/Scenes/Card Game Fighter.unity
+    guid: 027aef21b2b01f04aad8c4d68f127819
+  m_configObjects: {}
